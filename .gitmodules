@@ -1,0 +1,6 @@
+[submodule "multi_datasource"]
+	path = multi_datasource
+	url = https://github.com/Ajoy-1704001/multi_datasource.git
+[submodule "spring-boot-caching-with-redis"]
+	path = spring-boot-caching-with-redis
+	url = https://github.com/Ajoy-1704001/spring-boot-caching-with-redis.git
