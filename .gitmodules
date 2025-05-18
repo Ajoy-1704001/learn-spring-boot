@@ -4,3 +4,6 @@
 [submodule "spring-boot-caching-with-redis"]
 	path = spring-boot-caching-with-redis
 	url = https://github.com/Ajoy-1704001/spring-boot-caching-with-redis.git
+[submodule "rate-limiter-with-aop-redis"]
+	path = rate-limiter-with-aop-redis
+	url = https://github.com/Ajoy-1704001/spring_ratelimiter_redis_aop.git
